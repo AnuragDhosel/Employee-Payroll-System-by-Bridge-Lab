@@ -1,0 +1,25 @@
+{
+  "name": "employee-payroll-system-by-bridge-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnuragDhosel/Employee-Payroll-System-by-Bridge-Lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnuragDhosel/Employee-Payroll-System-by-Bridge-Lab/issues"
+  },
+  "homepage": "https://github.com/AnuragDhosel/Employee-Payroll-System-by-Bridge-Lab#readme",
+  "dependencies": {
+    "ejs": "^4.0.1",
+    "express": "^5.2.1"
+  }
+}

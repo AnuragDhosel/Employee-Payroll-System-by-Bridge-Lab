@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name":"Raajeev" ,
+        "position": "Software Engineer",
+        "salary": 60000
+    },
+    {
+        "id": 2,
+        "name": "Anurag",
+        "position": "Project Manager",
+        "salary": 75000
+    },
+    {
+        "id": 3,
+        "name": "Tanuj Sharma",
+        "position": "UX Designer",
+        "salary": 55000
+    },
+    {
+        "id": 4,
+        "name": "Shubham",
+        "position": "Data Analyst",
+        "salary": 65000
+    },
+    {
+        "id": 5,
+        "name": "Batsal Singh",
+        "position": "HR Specialist",
+        "salary": 50000
+    }
+]
